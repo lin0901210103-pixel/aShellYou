@@ -21,7 +21,7 @@
   </a>
     <a href="https://shields.rbtlog.dev/in.hridayan.ashell">
     <img alt="GitHub release" src="https://shields.rbtlog.dev/simple/in.hridayan.ashell?style=for-the-badge" />
-  </a>
+  </a> 
   <a href="https://github.com/DP-Hridayan/aShellYou/releases">
     <img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/DP-Hridayan/aShellYou/total?style=for-the-badge&logo=download&label=Downloads" />
   </a>
